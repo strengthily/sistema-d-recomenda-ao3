@@ -1,4 +1,4 @@
-# sistema-d-recomenda-ao3
+# sistema-d-recomenda-ao
 ## Prefácio
 
 Nos dias de hoje, com a vasta quantidade de opções disponíveis nas plataformas de streaming, escolher o filme ideal pode se tornar uma tarefa desafiadora. Muitos de nós já passamos horas navegando sem rumo, apenas para acabar assistindo algo que não atende às nossas expectativas. Foi essa frustração que me motivou a criar um algoritmo de filmes, uma ferramenta pensada para simplificar e aprimorar a experiência de escolha cinematográfica.
